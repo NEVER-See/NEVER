@@ -99,8 +99,3 @@ interests = [
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=never-see&color=brightgreen&style=for-the-badge"/>
 </div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
