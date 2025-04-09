@@ -1,7 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://steamuserimages-a.akamaihd.net/ugc/1781760750204695017/C5CAA9D3FA39A64993F6D7EE1697D7CF4727C64E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Profile Banner">
-
-  <!-- Title -->
+    <!-- Title -->
   <h1>👋 Welcome to My GitHub Profile</h1>
   
   <!-- Animated Text -->
@@ -23,10 +21,10 @@
 <td>
 
 ### 💫 Quick Facts
-- 🎓 Studying at **MIREA - Russian Technological University**
-- 💼 Aspiring **Software Developer**
-- 🌍 Based in **Moscow, Russia**
-- 🎯 Focused on **Backend Development**
+- 🎓 Studying at **OGAU - Orenburg State Agrarian University**
+- 💼 Aspiring **Programmer**
+- 🌍 Based in **Orenburg, Russia**
+- 🎯 Focused on **Simple application development**
 - 🌱 Currently exploring **new technologies**
 - ⚡ Passionate about **efficient solutions**
 
@@ -38,20 +36,20 @@
 languages = {
     "Primary": ["Python", "JavaScript"],
     "Secondary": ["Java", "C++"],
-    "Learning": ["Go", "Rust"]
 }
 
 interests = [
-    "Backend Development",
-    "System Architecture",
-    "Cloud Computing",
-    "DevOps Practices"
+    "Bot development",
+    "Application Development",
+    "Interior and exterior design",
 ]
 ```
 
 </td>
 </tr>
 </table>
+
+<img width="100%" src="https://steamuserimages-a.akamaihd.net/ugc/1781760750204695017/C5CAA9D3FA39A64993F6D7EE1697D7CF4727C64E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Profile Banner">
 
 <!-- GitHub Stats -->
 <h2>📊 GitHub Analytics</h2>
@@ -86,13 +84,13 @@ interests = [
 <!-- Connect Section -->
 <h2>🤝 Let's Connect</h2>
 <div align="center">
-  <a href="YOUR_TELEGRAM_LINK">
+  <a href="https://t.me/K0SH4N">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="YOUR_VK_LINK">
+  <a href="https://vk.com/k0sh4n">
     <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white"/>
   </a>
-  <a href="YOUR_DISCORD_LINK">
+  <a href="https://dsc.gg/ddcollection">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </div>
