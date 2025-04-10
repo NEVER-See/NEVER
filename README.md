@@ -32,7 +32,7 @@
 
 ### 💻 Tech Stack
 ```python
-
+//> Hello world!
 
 languages = {
     "Primary": ["Python", "JavaScript"],
