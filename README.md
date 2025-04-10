@@ -86,9 +86,6 @@ languages = {
     <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white"/></a>
   <a href="https://dsc.gg/ddcollection" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&size=30&duration=1000&pause=1000&color=00FF00&center=false&vCenter=true&width=10&cursor=%E2%96%8A&lines=&nbsp" alt="Cursor"/>
-  
   <a target="_blank">
     <img src="https://komarev.com/ghpvc/?username=never-see&color=228653&style=for-the-badge"/></a>
 </div>
