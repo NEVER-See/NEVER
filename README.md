@@ -27,7 +27,7 @@
 - 💼 Aspiring **Programmer**
 - 🎯 Focused on **Simple application development**
 <div align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=never-see&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=never-see&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D"/>
 </div>
 
 </td>
@@ -41,13 +41,11 @@ languages = {
     "Primary": ["Python", "JavaScript"],
     "Secondary": ["Java", "C++"],
 }
-
-interests = [
-    "Bot development",
-    "Application Development",
-    "Interior and exterior design",
-]
 ```
+<!-- Top Languages -->
+<div align="center">
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=never-see&layout=compact&theme=radical&bg_color=0D1117&border_color=30363D"/>
+</div>
 
 </td>
 </tr>
@@ -57,8 +55,9 @@ interests = [
 <h2>📊 GitHub Analytics</h2>
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=never-see&theme=react-dark&hide_border=true&area=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=never-see&theme=react-dark&hide_border=true&area=true" />
 </div>
+
 
 <!-- GitHub Trophies -->
 <h2>🏆 GitHub Trophies</h2>
