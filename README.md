@@ -81,7 +81,7 @@ languages = {
   <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&size=30&duration=1000&pause=1000&color=00FF00&center=false&vCenter=true&width=10&cursor=%E2%96%8A&lines=&nbsp" alt="Cursor"/>
   
   <a href="https://t.me/K0SH4N" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=tgc&logoColor=white"/></a>
   <a href="https://vk.com/k0sh4n" target="_blank">
     <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white"/></a>
   <a href="https://dsc.gg/ddcollection" target="_blank">
