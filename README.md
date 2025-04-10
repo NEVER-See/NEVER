@@ -14,7 +14,7 @@
 
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1781760750204695017/C5CAA9D3FA39A64993F6D7EE1697D7CF4727C64E/?imw=720&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Profile Banner" width="750">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1781760750204695017/C5CAA9D3FA39A64993F6D7EE1697D7CF4727C64E/?imw=720&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Profile Banner" width="748">
 </div>
 
 <!-- About Me Section -->
