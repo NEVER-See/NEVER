@@ -12,6 +12,11 @@
   </p>
 </div>
 
+<!-- Profile Banner -->
+<div align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1781760750204695017/C5CAA9D3FA39A64993F6D7EE1697D7CF4727C64E/?imw=720&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Profile Banner" width="750">
+</div>
+
 <!-- About Me Section -->
 <h2>🚀 About Me</h2>
 
@@ -52,10 +57,6 @@ interests = [
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/1781760750204695017/C5CAA9D3FA39A64993F6D7EE1697D7CF4727C64E/?imw=720&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Profile Banner" width="750">
-</div>
 
 <!-- GitHub Stats -->
 <h2>📊 GitHub Analytics</h2>
