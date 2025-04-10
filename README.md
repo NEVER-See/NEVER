@@ -44,7 +44,7 @@ languages = {
 ```
 <!-- Top Languages -->
 <div align="center">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=never-see&layout=compact&theme=radical&bg_color=0D1117&border_color=30363D"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=never-see&layout=compact&theme=radical&bg_color=0D1117&border_color=30363D" alt="Top Languages"/>
 </div>
 
 </td>
