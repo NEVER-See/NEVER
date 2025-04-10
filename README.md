@@ -66,11 +66,9 @@ languages = {
   <img src="https://github-profile-trophy.vercel.app/?username=never-see&theme=darkhub&no-frame=true&row=1&margin-w=15&margin-h=15"/>
 </div>
 
-<!-- Technologies & Tools -->
+<!-- Technologies & Tools and Connect Section -->
 <div align="center">
-<h2>🛠️ Technologies & Tools</h2>
-</div>
-<div align="center">
+<h3>🛠️ Technologies & Tools and Let's Connect 🤝</h3>
   <a href="https://www.python.org" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -79,22 +77,18 @@ languages = {
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
   <a href="https://isocpp.org" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
-</div>
-
-<!-- Connect Section -->
-<div align="center">
-<h2>🤝 Let's Connect</h2>
-</div>
-<div align="center">
+    
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&size=30&duration=1000&pause=1000&color=00FF00&center=false&vCenter=true&width=140&cursor=%E2%96%8A&lines=&nbsp" alt="Cursor"/>
+  
   <a href="https://t.me/K0SH4N" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://vk.com/k0sh4n" target="_blank">
     <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white"/></a>
   <a href="https://dsc.gg/ddcollection" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</div>
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=never-see&color=228653&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&size=30&duration=1000&pause=1000&color=00FF00&center=false&vCenter=true&width=30&cursor=%E2%96%8A&lines=&nbsp" alt="Cursor"/>
+  
+  <a target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=never-see&color=228653&style=for-the-badge"/></a>
 </div>
