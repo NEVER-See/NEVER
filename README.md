@@ -3,7 +3,7 @@
   <h1>👋 Welcome to My GitHub Profile</h1>
   
   <!-- Animated Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+Expert;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&size=40&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Beginner+programmer;Developer+bots;Developer+applications;Designer" alt="Typing SVG" />
 
   <!-- Quick Info Badges -->
   <p>
