@@ -26,6 +26,9 @@
 - 🎯 Focused on **Simple application development**
 - 🌱 Currently exploring **new technologies**
 - ⚡ Passionate about **efficient solutions**
+<div align="center">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=never-see&layout=compact&theme=radical&bg_color=0D1117&border_color=30363D"/>
+</div>
 
 </td>
 <td>
@@ -50,14 +53,15 @@ interests = [
 </tr>
 </table>
 
-<img width="100%" src="https://steamuserimages-a.akamaihd.net/ugc/1781760750204695017/C5CAA9D3FA39A64993F6D7EE1697D7CF4727C64E/?imw=200&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Profile Banner">
+<div align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1781760750204695017/C5CAA9D3FA39A64993F6D7EE1697D7CF4727C64E/?imw=720&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Profile Banner" width="843">
+</div>
 
 <!-- GitHub Stats -->
 <h2>📊 GitHub Analytics</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=never-see&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=never-see&layout=compact&theme=radical&bg_color=0D1117&border_color=30363D"/>
 </div>
 
 <!-- GitHub Activity Graph -->
