@@ -3,7 +3,7 @@
   <h1>👋 Welcome to My GitHub Profile</h1>
   
   <!-- Animated Text -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&size=30&duration=550&pause=100&color=00FF00&center=false&vCenter=true&width=115&cursor=%E2%96%8A&lines=&nbsp" alt="Cursor"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&size=30&duration=550&pause=100&color=00FF00&center=false&vCenter=true&width=118&cursor=%E2%96%8A&lines=&nbsp" alt="Cursor"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&size=30&duration=550&pause=100&color=00FF00&center=false&vCenter=true&width=60&cursor=%E2%96%8A&lines=%E2%96%8A;&nbsp" alt="Cursor"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&size=30&duration=3000&pause=1000&color=00FF00&center=false&vCenter=true&width=500&cursor=%E2%96%8A&lines=Beginner+programmer;Developer+applications;Creative+personality" alt="Typing Text"/>
 
