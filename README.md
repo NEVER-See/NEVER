@@ -18,8 +18,6 @@
 </div>
 
 <!-- About Me Section -->
-<h2>🚀 About Me</h2>
-
 <table align="center">
 <tr>
 <td>
@@ -27,12 +25,9 @@
 ### 💫 Quick Facts
 - 🎓 Studying at **OGAU - Orenburg State Agrarian University**
 - 💼 Aspiring **Programmer**
-- 🌍 Based in **Orenburg, Russia**
 - 🎯 Focused on **Simple application development**
-- 🌱 Currently exploring **new technologies**
-- ⚡ Passionate about **efficient solutions**
 <div align="center">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=never-see&layout=compact&theme=radical&bg_color=0D1117&border_color=30363D"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=never-see&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D"/>
 </div>
 
 </td>
@@ -60,11 +55,6 @@ interests = [
 
 <!-- GitHub Stats -->
 <h2>📊 GitHub Analytics</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=never-see&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D"/>
-</div>
-
 <!-- GitHub Activity Graph -->
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=never-see&theme=react-dark&hide_border=true&area=true" />
