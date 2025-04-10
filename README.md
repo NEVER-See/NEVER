@@ -78,7 +78,7 @@ languages = {
   <a href="https://isocpp.org" target="_blank">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a>
     
-  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&size=30&duration=1000&pause=1000&color=00FF00&center=false&vCenter=true&width=100&cursor=%E2%96%8A&lines=&nbsp" alt="Cursor"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Matrix&size=30&duration=1000&pause=1000&color=00FF00&center=false&vCenter=true&width=80&cursor=%E2%96%8A&lines=&nbsp" alt="Cursor"/>
   
   <a href="https://t.me/K0SH4N" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
