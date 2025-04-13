@@ -23,7 +23,7 @@
 <!-- Profile Banner -->
 <div align="center">
   <a href="#" onclick="return false; target="_blank"">
-    <img src="https://github.com/user-attachments/assets/c9758cab-86a7-4d24-92d6-83dd3a6d11c4" alt="Profile Banner" width="810"></a>
+    <img src="https://github.com/user-attachments/assets/c9758cab-86a7-4d24-92d6-83dd3a6d11c4" alt="Profile Banner" width="805"></a>
 </div>
 
 <!-- About Me Section -->
@@ -35,6 +35,7 @@
 - 🎓 Studying at **OGAU - Orenburg State Agrarian University**
 - 💼 Aspiring **Programmer**
 - 🎯 Focused on **Simple application development**
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <div align="center">
   <a href="#" onclick="return false; target="_blank"">
