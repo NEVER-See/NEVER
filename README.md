@@ -36,7 +36,7 @@
 - 💼 Aspiring **Programmer**
 - 🎯 Focused on **Simple application development**
 - 🎨 An amateur **Designer**
-- 🥗 A lover of **delicious food**
+<p>&nbsp;</p>
 <div align="center">
   <a href="#" onclick="return false; target="_blank"">
     <img height="159em" src="https://github-readme-stats.vercel.app/api?username=never-see&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D"/></a>
