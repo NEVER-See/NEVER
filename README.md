@@ -23,7 +23,7 @@
 <!-- Profile Banner -->
 <div align="center">
   <a href="#" onclick="return false; target="_blank"">
-    <img src="https://github.com/user-attachments/assets/c9758cab-86a7-4d24-92d6-83dd3a6d11c4" alt="Profile Banner" width="800"></a>
+    <img src="https://github.com/user-attachments/assets/c9758cab-86a7-4d24-92d6-83dd3a6d11c4" alt="Profile Banner" width="810"></a>
 </div>
 
 <!-- About Me Section -->
@@ -38,7 +38,7 @@
 <p>&nbsp;</p>
 <div align="center">
   <a href="#" onclick="return false; target="_blank"">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=never-see&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D"/></a>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=never-see&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D"/></a>
 </div>
 
 </td>
