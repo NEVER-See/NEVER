@@ -39,7 +39,7 @@
 <p>&nbsp;</p>
 <div align="center">
   <a href="#" onclick="return false; target="_blank"">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=never-see&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D"/></a>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=never-see&show_icons=true&theme=radical&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D"/></a>
 </div>
 
 </td>
