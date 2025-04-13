@@ -72,13 +72,14 @@ languages = {
 
 <!-- GitHub Trophies -->
 <div align="center">
-<h2>🏆 GitHub Trophies</h2>
+<h3>🏆 GitHub Trophies</h3>
 </div>
 <div align="center">
   <a href="#" onclick="return false; target="_blank"">
     <img src="https://github-profile-trophy.vercel.app/?username=never-see&theme=darkhub&no-frame=true&row=1&margin-w=15&margin-h=15"/></a>
+  <p>&nbsp;</p>
 </div>
-
+        
 <!-- Technologies & Tools and Connect Section -->
 <div align="center">
 <h3>🛠️ Technologies & Tools and Let's Connect 🤝</h3>
